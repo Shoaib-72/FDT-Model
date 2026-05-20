@@ -6,7 +6,7 @@ Built using **Python, Scikit-learn, and Streamlit**, this project helps analyze 
 ---
 
 ## 🚀 Live Demo
-👉 [https://your-streamlit-app-link.streamlit.app/](https://fdt-model-76.streamlit.app/)
+👉 [https://fdt-model-76.streamlit.app]
 
 ---
 
