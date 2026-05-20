@@ -26,13 +26,13 @@ The application provides:
 
 ## 🧠 Machine Learning Model
 
-- **Algorithm Used:** Random Forest Regressor  
+- **Algorithm Used:** Linear Regressor  
 - **Preprocessing:** Feature Encoding & Data Cleaning  
 - **Train-Test Split:** 80% / 20%  
 - **Evaluation Metrics:**  
-  - R² Score  
-  - Mean Absolute Error (MAE)  
-  - Mean Squared Error (MSE)  
+  - R² Score : 0.93
+  - Mean Absolute Error (MAE) : 1.64 
+  - Mean Squared Error (MSE) : 1.82
 
 ---
 
@@ -80,7 +80,7 @@ FDT-Model/
 │── Dataset/
 │── Jupyter-Notebook/
 │── app.py
-│── fdt_model.pkl
+│── fdt_lr_model.pkl
 │── requirements.txt
 │── README.md
 ```
