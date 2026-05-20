@@ -40,13 +40,10 @@ The application provides:
 
 The model uses the following pharmaceutical formulation parameters:
 
-- Drug Amount (mg)  
-- Type of Superdisintegrant  
-- Concentration of Superdisintegrant (mg)  
-- Binder Type  
-- Binder Percentage (%)  
-- Hardness (Kg/cm²)  
-- Friability (%)  
+- Superdisintegrant	
+- Concentration (%)	
+- Binder (%)	
+- Compression (kN) 
 
 ---
 
